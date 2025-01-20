@@ -2,7 +2,7 @@
 
 [Universal Robots Website](https://www.universal-robots.com/ "Universal Robots")
 
-[Universal Robots RTDE How To Guide](https://www.universal-robots.com/how-tos-and-faqs/how-to/ur-how-tos/real-time-data-exchange-rtde-guide-22229/ "Universal Robots RTDE")
+[Universal Robots RTDE How To Guide](https://www.universal-robots.com/articles/ur/interface-communication/real-time-data-exchange-rtde-guide/)
 
 ## Quickstart
 
